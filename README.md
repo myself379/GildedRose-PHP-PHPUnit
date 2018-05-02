@@ -57,10 +57,12 @@ update to our system:
 
 Feel free to make any changes to the updateQuality method and add any 
 new code as long as everything still works correctly. However, do not 
-alter the Item class or Items property as those belong to the goblin 
+alter the Item class or Items property (in the constructor) as those belong to the goblin 
 in the corner who will insta-rage and one-shot you as he doesn't 
 believe in shared code ownership (you can make the updateQuality 
-method and Items property static if you like, we'll cover for you).
+method and Items property static if you like, we'll cover for you). 
+
+_hint: You can move the Items property around as long as the arguments are intact._
 
 Just for clarification, an item can never have its Quality increase 
 above 50, however "Sulfuras" is a legendary item and as such its 
