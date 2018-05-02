@@ -5,6 +5,7 @@ Simply clone this repository and run the following command :
 ```
 composer install
 ```
+![2018-05-02_152026](https://user-images.githubusercontent.com/18492477/39511089-b9fa34ac-4e1e-11e8-8a7d-d5abf2f579d8.png)
 
 after vendor folder has been pulled in and phpunit is available for you, then
 
@@ -12,10 +13,12 @@ after vendor folder has been pulled in and phpunit is available for you, then
 phpunit
 ```
 
+![2018-05-02_151916](https://user-images.githubusercontent.com/18492477/39511088-b983b778-4e1e-11e8-853c-db00d238f56b.png)
+
 # GildedRose-PHP-PHPUnit
 GildedRose Refactoring Kata in PHP using PHPUnit.
 
-This kata is meant for confusing and overwhelming. Try to calm down and relax, understand the problem. You can run the test to get green.
+This kata is meant for confusing and overwhelming. Try to calm down and relax, understand the problem. You can run the test first to get green and have confident to proceed.
 
 # Gilded Rose
 
