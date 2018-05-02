@@ -1,5 +1,21 @@
+# Installation guide
+
+Simply clone this repository and run the following command :
+
+```
+composer install
+```
+
+after vendor folder has been pulled in and phpunit is available for you, then
+
+```
+phpunit
+```
+
 # GildedRose-PHP-PHPUnit
-GildedRose Refactoring Kata in PHP using PHPUnit
+GildedRose Refactoring Kata in PHP using PHPUnit.
+
+This kata is meant for confusing and overwhelming. Try to calm down and relax, understand the problem. You can run the test to get green.
 
 # Gilded Rose
 
@@ -30,12 +46,21 @@ update to our system:
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a legendary item and as such its Quality is 80 and it never alters.
 
-# Faster Sublime Text PHPUnit Workflow
+# Fast Sublime Text PHPUnit Workflow
+
+## Mac users
+
+Adam Wathan has a great post about his test tools.
+
+[Optimizing Your PHPUnit Workflow in Sublime Text](https://adamwathan.me/2017/01/16/optimizing-your-phpunit-workflow-in-sublime-text/)
+
+[adamwathan/sublime-phpunit](https://github.com/adamwathan/sublime-phpunit)
 
 ## Windows users
-Feel free to use [gerardroche/phpunitkit](https://github.com/gerardroche/sublime-phpunit) for Windows user
+Feel free to use [gerardroche/phpunitkit](https://github.com/gerardroche/sublime-phpunit).
 
-## Suggested settings for Sublime Text
+
+## Suggested settings for Sublime Text (Windows)
 
 ```
 "phpunit.options":
@@ -45,7 +70,7 @@ Feel free to use [gerardroche/phpunitkit](https://github.com/gerardroche/sublime
     },
 ```
 
-## Suggested shortcut key binding for trigger
+## Suggested shortcut key binding for trigger (Windows)
 
 ```
 {"keys": ["ctrl+1"], "command": "phpunit_test_file"},
@@ -53,11 +78,8 @@ Feel free to use [gerardroche/phpunitkit](https://github.com/gerardroche/sublime
 {"keys": ["ctrl+3"], "command": "phpunit_test_last"},
 ```
 
-
-## Side note
-This kata is meant for confusing and overwhelming. First step is to calm down, then try to understand the problem
-
 ## Credits
 
 [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+
 [ahuggins/gilded-rose-phpunit](https://github.com/ahuggins/gilded-rose-phpunit)
