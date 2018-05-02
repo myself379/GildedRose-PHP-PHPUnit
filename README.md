@@ -1,3 +1,8 @@
+# GildedRose-PHP-PHPUnit
+GildedRose Refactoring Kata in PHP using PHPUnit.
+
+This kata is meant for confusing and overwhelming. Try to calm down and relax, understand the problem. You can run the test first to get green and have confident to proceed.
+
 # Installation guide
 
 Simply clone this repository and run the following command :
@@ -14,11 +19,6 @@ phpunit
 ```
 
 ![2018-05-02_151916](https://user-images.githubusercontent.com/18492477/39511088-b983b778-4e1e-11e8-853c-db00d238f56b.png)
-
-# GildedRose-PHP-PHPUnit
-GildedRose Refactoring Kata in PHP using PHPUnit.
-
-This kata is meant for confusing and overwhelming. Try to calm down and relax, understand the problem. You can run the test first to get green and have confident to proceed.
 
 # Gilded Rose
 
@@ -49,7 +49,7 @@ update to our system:
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a legendary item and as such its Quality is 80 and it never alters.
 
-# Fast Sublime Text PHPUnit Workflow
+# Faster Sublime Text PHPUnit Workflow
 
 ## Mac users
 
