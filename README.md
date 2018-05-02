@@ -1,7 +1,7 @@
 # GildedRose-PHP-PHPUnit
 GildedRose Refactoring Kata in PHP using PHPUnit.
 
-This kata is meant for confusing and overwhelming. Try to calm down and relax, understand the problem. You can run the test first to get green and have confident to proceed.
+This kata is meant for confusing and overwhelming. Try to calm down and relax, understand the problem. You can run the test first to get green and have confident to proceed. Solution is given in branch [solution](https://github.com/myself379/GildedRose-PHP-PHPUnit/tree/solution) for reference.
 
 # Installation guide
 
